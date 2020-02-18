@@ -1,0 +1,8 @@
+1. Car, Bus
+
+2. pedestrian: 
+
+
+3. other_vehicle:
+
+motorcycle,animal,,,bicycle,emergency_vehicle,truck,

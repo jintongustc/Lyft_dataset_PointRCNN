@@ -1,0 +1,9 @@
+class,cond,predictedLabelFolder,submissionFile
+car,normal,../predicted/epoch_6/pred_boxes3d/Car,../submission/sample_submission_car1.csv
+car,mirror,../predicted/mirror/epoch_6/pred_boxes3d/Car,../submission/sample_submission_car2.csv
+bus,normal,../predicted/mirror/epoch_18/pred_boxes3d/Bus,../submission/sample_submission_car2bus1.csv
+bus,mirror,../predicted/epoch_18/pred_boxes3d/Bus,../submission/sample_submission_car2bus2.csv
+pedestrian,normal,../predicted/epoch_18/pred_boxes3d/Pedestrian,../submission/sample_submission_car2bus2ped1.csv
+pedestrian,mirror,../predicted/mirror/epoch_18/pred_boxes3d/Pedestrian,../submission/sample_submission_car2bus2ped2.csv
+car,normal2,../predicted/epoch_2/pred_boxes3d/Car,../submission/sample_submission_car3bus2ped2.csv
+car,mirror2,../predicted/mirror/epoch_2/pred_boxes3d/Car,../submission/sample_submission_car4bus2ped2.csv
